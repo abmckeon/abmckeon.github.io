@@ -4,15 +4,15 @@ What do you think being a data scientist is about?
 
 The job title of "Data Scientist" is obviously newer, and in my opinion, also a title that we will continue to see evolve in the coming years. 
 There are many discussions on what exactly a Data Scientist "is" but solely extrapolating from the readings I believe a Data Scientist is a unqiue role that intersects skills of computer programming, subject matter expertise, and math and statistics.
-However its functions are unique from those of a statistican or a data analyst or a data engineer. Data Scientists are challenges within knowing a lot about the functions of the other related jobs around them, and serving at the intersection of them for problem solving
+However its functions are unique from those of a statistican or a data analyst or a data engineer. Data Scientists are challenged within knowing a lot about the functions of the other related jobs around them, and serving at the intersection of them to be able to problem solve. 
  
 What do you see as the major duties and/or knowledge areas?  
 
-Unique to data scientists is their needs to understand both statistics and analytics and engineering at a foundational level in order to perform the duties of the job and serve on interdiscplinary teams comprised of related, but distrinct career fields. Data scientists are commonly understood to be able to work with large datasets, explore those datasets for insights, build predictive models, visualize those findings, and communicate results.  
+Unique to data scientists is their needs to understand statistics and analytics and engineering at a foundational level in order to perform the duties of the job and serve on interdiscplinary teams comprised of related, but distinct career fields. Data scientists are commonly understood to be able to work with large datasets, explore those datasets for insights, build predictive models, visualize those findings, and communicate results.  
  
 What differences/similarities do you see between data scientists and statisticians?  
 
-Both Statisticians and Data Scientists need to understand statistics. However, Statisticans know more about traditional statistics, including test selection and assumptions, than Data Scientists because that is their primary job function. However, statisticians usually work with much smaller datasets than a Data Scientist will. 
+Both Statisticians and Data Scientists need to understand statistics. However, Statisticans know more about traditional statistics, including test selection and assumptions, than Data Scientists because that is their primary job function. However, statisticians usually work with much smaller datasets than a Data Scientist will. Different than Statistician, Data Scientists follow the data science process, which includes knowledge of statistics, to take large datasets and analyze those datasets to build models that tell a story in a more approachable way. 
 
 How do you view yourself in relation to these two areas?
 
